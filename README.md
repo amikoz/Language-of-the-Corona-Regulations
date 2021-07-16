@@ -1,1 +1,1 @@
-# Language-of-the-Corona-Regulations
+# corona_verod_analysis
