@@ -1,0 +1,51 @@
+body {
+  font-size: .875rem;
+  position: relative; 
+}
+
+.navbar-brand {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 7px;
+    padding-bottom: 2px;
+    margin-left: 3%;
+}
+
+.main {
+  position: absolute;
+  top: 80px;
+  bottom: 0;
+  left: 300px;
+  width: 100%;
+  padding: 0;
+}
+
+.navbar-collapse {
+  display: flex;
+  flex-basis: auto;
+}
+
+.navbar-nav {
+  flex-direction: row;
+  display: flex;
+  justify-content: flex-end; 
+  float:right;
+  padding-top: 7px;
+  padding-bottom: 2px;
+  margin-left: 30%;
+}
+
+.nav-link{
+  margin-left: 18px;
+  padding-right: 15px;    
+}
+
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
